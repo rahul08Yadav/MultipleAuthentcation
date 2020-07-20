@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">SignIn</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY" tools:ignore="ExtraTranslation">p6ut5nxQxMFvytiIftzimqY7Y</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET" tools:ignore="ExtraTranslation">uipSW8EOOsLgkECYRciwu9h4NX3ebSztLvAeMZAEaBHLLY69pP</string>
+    <string name="facebook_app_id">616875495931124</string>
+    <string name="fb_login_protocol_scheme">fb616875495931124</string>
+
+
+</resources>
