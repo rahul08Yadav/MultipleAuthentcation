@@ -31,7 +31,7 @@ public class TwitterProfile extends AppCompatActivity {
         twitterName = findViewById(R.id.twitter_name);
         img = findViewById(R.id.twt_img);
         twitterName.setText(username);
-       // Glide.with(TwitterProfile.this).load(url).into(img);
+       Glide.with(TwitterProfile.this).load(url).into(img);
 
         twitterLogout = findViewById(R.id.twitter_logout);
 

@@ -6,7 +6,7 @@
     android:gravity="center">
     <ImageView
         android:layout_width="175dp"
-        android:src="@drawable/aru"
+        android:src="@drawable/ic_launcher_background"
         android:layout_gravity="center_horizontal"
         android:id="@+id/facebook_pic"
         android:layout_height="175dp"/>

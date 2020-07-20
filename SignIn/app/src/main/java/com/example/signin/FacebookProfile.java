@@ -27,11 +27,11 @@ public class FacebookProfile extends AppCompatActivity {
 
         img = findViewById(R.id.facebook_pic);
 
-       // name.setText(full_name);
+        name.setText(full_name);
        // emailid.setText(email);
 
 
-        //Glide.with(FacebookProfile.this).load(img_url).into(img);
+        Glide.with(FacebookProfile.this).load(img_url).into(img);
 
     }
 }

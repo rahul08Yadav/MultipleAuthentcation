@@ -59,8 +59,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private static final String EMAIL = "email";
     public  String email,fname,lname,id;
 
-    private static final String TWITTER_KEY = "p6ut5nxQxMFvytiIftzimqY7Y";
-    private static final String TWITTER_SECRET = "uipSW8EOOsLgkECYRciwu9h4NX3ebSztLvAeMZAEaBHLLY69pP";
+    private static final String TWITTER_KEY = "";
+    private static final String TWITTER_SECRET = "";
 
     @Override
     protected void onStart() {

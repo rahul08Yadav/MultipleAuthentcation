@@ -22,7 +22,7 @@
         android:layout_below="@+id/twitter_name"/>
     <ImageView
         android:layout_marginBottom="20dp"
-        android:src="@drawable/abu"
+        android:src="@drawable/ic_launcher_background"
         android:layout_centerHorizontal="true"
         android:layout_width="120dp"
         android:layout_height="120dp"
